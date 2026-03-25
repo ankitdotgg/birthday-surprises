@@ -1,6 +1,6 @@
 # Birthday Surprises
 
-An interactive 3D starfield experience where every star holds a memory. Built with Three.js and Claude as a birthday gift for someone special.
+An interactive 3D starfield experience where every star holds a memory. I designed this from scratch with Claude as a birthday gift — and now it's a template anyone can personalize in 5 minutes.
 
 Their name is spelled out as a constellation across the night sky. Glowing stars scattered around the scene each contain a photo and a heartfelt caption. Friends send birthday wishes as comets streaking across the sky. Background music fades in as the experience begins.
 

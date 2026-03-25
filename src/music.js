@@ -1,6 +1,6 @@
 /**
- * Music player for Dil Na Jaaneya.
- * Uses a local audio file — no external dependencies.
+ * Music player — uses a local audio file, no external dependencies.
+ * Drop your audio file in /public/ and update the path below.
  */
 
 let audio = null;
@@ -10,7 +10,7 @@ const VOLUME = 0.5;
 
 function getAudio() {
   if (!audio) {
-    audio = new Audio("/dil-na-jaaneya.webm");
+    audio = new Audio("/your-song.mp3");
     audio.loop = true;
     audio.volume = 0;
   }
