@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.webm
+*.mp3
+*.mp4
+public/photos/*.jpeg
+public/photos/*.jpg
+public/photos/*.png

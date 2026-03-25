@@ -1,0 +1,25 @@
+{
+  "name": "birthday-surprises",
+  "version": "1.0.0",
+  "description": "An interactive 3D starfield birthday experience built with Three.js and Claude",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "birthday",
+    "threejs",
+    "interactive",
+    "starfield",
+    "constellation",
+    "gift"
+  ],
+  "author": "Ankit",
+  "license": "MIT",
+  "dependencies": {
+    "three": "0.183.2",
+    "vite": "8.0.2"
+  }
+}
